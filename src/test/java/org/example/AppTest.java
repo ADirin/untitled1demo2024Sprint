@@ -42,4 +42,10 @@ public class AppTest
     public void addmeTest(){
         assertEquals(app.addme(5,6), 11);
     }
+
+
+    @Test
+    public void subbtractmeTest(){
+      assertEquals(app.subtractme(7,2), 5);
+    }
 }
