@@ -43,6 +43,9 @@
 
   </dependencies>
   <build>
+    <finalName>untitled1demo3</finalName>
+
+
     <plugins>
       <!-- JaCoCo Maven plugin for code coverage
       If you're trying to use JaCoCo for code coverage within your Maven project,
